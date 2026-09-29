@@ -10,7 +10,7 @@ page-layout: full
 
 ::::: home-hero
 ::: hero-copy
-[STUDENT / RESEARCHER / EXPLORER]{.eyebrow}
+[STUDENT / RESEARCHER / ARTIST]{.eyebrow}
 
 # Your Name {.display-name}
 
