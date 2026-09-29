@@ -11,7 +11,7 @@ metadata-files:
   - _design/defaults.yml
 
 website:
-  title: "Your Name"
+  title: "Eleanor Dowhower"
   description: "A student website about research, work, and the world beyond class."
   # Later, when published, uncomment and replace the address below.
   # site-url: "https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/"
