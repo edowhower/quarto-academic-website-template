@@ -5,9 +5,11 @@ page-layout: full
 ---
 
 <!-- HOME: replace the name, introduction, and email below. Keep the ::: layout lines. -->
+
 <!-- PREVIEW: first use Build > Render Website to generate every page, then Render this file. -->
-:::: {.home-hero}
-::: {.hero-copy}
+
+::::: home-hero
+::: hero-copy
 [STUDENT / RESEARCHER / EXPLORER]{.eyebrow}
 
 # Your Name {.display-name}
@@ -19,14 +21,15 @@ I'm an undergraduate interested in people, politics, and what we can learn from 
 [Explore my research](research.qmd){.primary-link} [Say hello](mailto:you@example.com){.quiet-link}
 :::
 
-::: {.hero-photo}
+::: hero-photo
 <!-- Replace images/profile.jpg with your photo. Update the description in fig-alt too. -->
-![](images/profile.jpg){fig-alt="Orange flowers, a sample image for this personal website."}
-:::
-::::
 
-:::: {.home-notes}
-::: {.home-note}
+![Headshot](./images/Headshot.png){fig-alt="headshot of me"}
+:::
+:::::
+
+::::: home-notes
+::: home-note
 [01 / IN THE CLASSROOM]{.eyebrow}
 
 ## Questions worth asking
@@ -36,7 +39,7 @@ How do the places we live shape our opportunities? I'm learning to turn broad qu
 [Academic interests & research](research.qmd)
 :::
 
-::: {.home-note}
+::: home-note
 [02 / BEYOND THE CLASSROOM]{.eyebrow}
 
 ## Learning by noticing
@@ -45,4 +48,4 @@ A new place, a good conversation, or a surprising chart can be the start of an i
 
 [Read my latest notes](blog.qmd)
 :::
-::::
+:::::
