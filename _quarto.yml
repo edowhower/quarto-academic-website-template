@@ -21,9 +21,9 @@ website:
         href: index.qmd
       - text: Research
         href: research.qmd
-      - text: Career
+      - text: Experience
         href: career.qmd
-      - text: Travel
+      - text: Art
         href: travel.qmd
       - text: Blog
         href: blog.qmd
