@@ -11,3 +11,5 @@
 .DS_Store
 # Optional local preview of the guide; GitHub displays README.md directly.
 /README.html
+.httr-oauth
+.quarto
