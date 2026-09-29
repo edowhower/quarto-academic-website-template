@@ -12,7 +12,7 @@ page-layout: full
 ::: hero-copy
 [STUDENT / RESEARCHER / ARTIST]{.eyebrow}
 
-# Your Name {.display-name}
+# Eleanor Dowhower {.display-name}
 
 [Making sense of the social world.]{.hero-subtitle}
 
