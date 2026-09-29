@@ -14,9 +14,9 @@ page-layout: full
 
 # Eleanor Dowhower {.display-name}
 
-[Making sense of the social world.]{.hero-subtitle}
+[Political Science Major, Data Analysis Minor, Bioethics Minor]{.hero-subtitle}
 
-I'm an undergraduate interested in people, politics, and what we can learn from data. This is a place for my projects, the questions I'm working through, and a few notes from beyond the classroom.
+I am an undergraduate student interested in the topics of politics, bioethics, and law, as well as their intersections. Here I will explore questions about public policy, emerging biotechnologies, and public sentiments regarding these two topics. 
 
 [Explore my research](research.qmd){.primary-link} [Say hello](mailto:you@example.com){.quiet-link}
 :::
