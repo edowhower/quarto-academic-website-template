@@ -16,15 +16,15 @@ page-layout: full
 
 [Political Science Major, Data Analysis Minor, Bioethics Minor]{.hero-subtitle}
 
-I am an undergraduate student interested in the topics of politics, bioethics, and law, as well as their intersections. Here I will explore questions about public policy, emerging biotechnologies, and public sentiments regarding these two topics. 
+I am an undergraduate student interested in the topics of politics, bioethics, and law, as well as their intersections. Here I will explore questions about public policy, emerging bio-technologies, and public sentiments regarding these two topics. In my free time I also make art!
 
-[Explore my research](research.qmd){.primary-link} [Say hello](mailto:you@example.com){.quiet-link}
+[Explore my Projects](research.qmd){.primary-link} [Contact Me](mailto:you@example.com){.quiet-link}
 :::
 
 ::: hero-photo
 <!-- Replace images/profile.jpg with your photo. Update the description in fig-alt too. -->
 
-![Headshot](./images/Headshot.png){fig-alt="headshot of me"}
+![Me](./images/Headshot.png){fig-alt="headshot of me"}
 :::
 :::::
 
