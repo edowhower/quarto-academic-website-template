@@ -24,7 +24,7 @@ I am an undergraduate student interested in the topics of politics, bioethics, a
 ::: hero-photo
 <!-- Replace images/profile.jpg with your photo. Update the description in fig-alt too. -->
 
-![Me](./images/Headshot.png){fig-alt="headshot of me"}
+![](./images/Headshot.png){fig-alt="headshot of me"}
 :::
 :::::
 
