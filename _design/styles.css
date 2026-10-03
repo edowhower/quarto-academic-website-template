@@ -58,7 +58,7 @@ h1.display-name { font-size: clamp(3.6rem, 6.2vw, 5.6rem); line-height: 1; margi
 .quiet-link { font-size: .88rem; }
 .hero-photo { justify-self: end; width: 100%; max-width: 320px; }
 .hero-photo p, .hero-photo figure { margin: 0; }
-.hero-photo img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; border-radius: 150px 150px 8px 8px; }
+.hero-photo img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; border-radius: 0; }
 .home-notes { border-top: 1px solid var(--rule); display: grid; grid-template-columns: 1fr 1fr; gap: 4rem; padding-top: 2.5rem; }
 .home-note h2 { font-size: 1.7rem; margin-top: .6rem; margin-bottom: 1rem; }
 .home-note p:last-child a { font-size: .9rem; }
