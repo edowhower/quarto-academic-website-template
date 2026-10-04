@@ -65,9 +65,9 @@
   {
     "objectID": "career.html",
     "href": "career.html",
-    "title": "Profession & career",
+    "title": "Resume",
     "section": "",
-    "text": "I’m exploring opportunities that combine research, clear communication, and work with communities. I’m especially interested in learning how evidence informs decisions outside the classroom."
+    "text": "ASPIRATIONS\nAfter graduation, I plan to pursue a career in law. I am interested in civil rights law, immigration law, and bioethics law."
   },
   {
     "objectID": "career.html#where-id-like-to-go",
@@ -79,21 +79,21 @@
   {
     "objectID": "career.html#experience",
     "href": "career.html#experience",
-    "title": "Profession & career",
+    "title": "Resume",
     "section": "Experience",
-    "text": "Experience\n\nStudent researcher · Course project\nFALL 2026\n\nExplore a social question using a public dataset.\nCreate a visualization in R and explain the choices behind it.\nShare code and notes so a classmate can follow the analysis."
+    "text": "Experience\n\nThomas & Dorothy Leavey Center for the Study of Los Angeles | Student Researcher\nJuly 2026-Present\nAnalyze datasets in Stata, generate research questions, and create data briefs to summarize findings about research topics.\n\n\nLeague of Women Voters of Santa Monica | Intern\nMay 2026-July 2026\nWorked on digital communications and community projects, wrote and researched for league ballot measure studies, gained exposure to government processes and social justice issues. Created and delivered data-driven graphics and videos utilizing Adobe, Microsoft, and Canva that supported the League’s civic education and voter outreach initiatives.\n\n\nLe Bilboquet, Atlanta, GA | Host\nJuly 2025-August 2026\nGreeted guests, prepared tables quickly and efficiently, used OpenTable’s restaurant management system to manage and assign reservations, navigated demanding customers and fast paced environment, resolved conflicts, and collaborated with the other hosts and servers to ensure guests received a positive dining experience."
   },
   {
     "objectID": "career.html#skills-im-building",
     "href": "career.html#skills-im-building",
-    "title": "Profession & career",
+    "title": "Resume",
     "section": "Skills I’m building",
     "text": "Skills I’m building\nResearch: turning a broad interest into a focused question, finding sources, and explaining limitations.\nData: working with R, making visualizations, and keeping a project organized.\nCollaboration: giving useful feedback, documenting work, and contributing to a shared project."
   },
   {
     "objectID": "career.html#lets-connect",
     "href": "career.html#lets-connect",
-    "title": "Profession & career",
+    "title": "Resume",
     "section": "Let’s connect",
     "text": "Let’s connect\nI’m happy to talk about projects, internships, and opportunities to learn.\nEmail me"
   },
@@ -180,5 +180,12 @@
     "title": "Academic Projects",
     "section": "",
     "text": "Political Behavior, Public Policy, and Legal Advocacy\n\nIdeology and Voting Behavior: What factors influence Americans’ political ideologies and voting behaviors?\nPolicy and Social Issues: What policies and structural changes will effectively address social issues?\nJustice System and Advocacy: How can legal actors achieve progress through the American justice system? What are the limitations of legal advocacy and where is reform necessary?"
+  },
+  {
+    "objectID": "career.html#aspirations",
+    "href": "career.html#aspirations",
+    "title": "Resume",
+    "section": "",
+    "text": "After graduation, I hope to attend law school and pursue a legal career. I am interested in civil rights law, immigration law, and bioethics law."
   }
 ]

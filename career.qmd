@@ -1,23 +1,33 @@
 ---
-title: "Profession & career"
-subtitle: "The work I've done and the work I'd like to try."
+title: "Resume"
+subtitle: "Work Experience and Education"
 ---
 
 <!-- CAREER: replace these examples with your own experience. Class and volunteer projects count. -->
 
-## Where I'd like to go
+**ASPIRATIONS**
 
-I'm exploring opportunities that combine research, clear communication, and work with communities. I'm especially interested in learning how evidence informs decisions outside the classroom.
+After graduation, I plan to pursue a career in law. I am interested in civil rights law, immigration law, and bioethics law. 
 
 ## Experience
 
-### Student researcher · Course project
+### Thomas & Dorothy Leavey Center for the Study of Los Angeles | Student Researcher
 
-[FALL 2026]{.project-label}
+[July 2026-Present]{.project-label}
 
-- Explore a social question using a public dataset.
-- Create a visualization in R and explain the choices behind it.
-- Share code and notes so a classmate can follow the analysis.
+Analyze datasets in Stata, generate research questions, and create data briefs to summarize findings about research topics. 
+
+### League of Women Voters of Santa Monica | Intern
+
+[May 2026-July 2026]{.project-label}
+
+Worked on digital communications and community projects, wrote and researched for league ballot measure studies, gained exposure to government processes and social justice issues. Created and delivered data-driven graphics and videos utilizing Adobe, Microsoft, and Canva that supported the League’s civic education and voter outreach initiatives. 
+
+### Le Bilboquet, Atlanta, GA | Host
+
+[July 2025-August 2026]{.project-label}
+
+Greeted guests, prepared tables quickly and efficiently, used OpenTable's restaurant management system to manage and assign reservations, navigated demanding customers and fast paced environment, resolved conflicts, and collaborated with the other hosts and servers to ensure guests received a positive dining experience. 
 
 <!-- Add another role or volunteer project here if useful.
      Use a heading for the role, then a date and 2–3 concrete contributions.
