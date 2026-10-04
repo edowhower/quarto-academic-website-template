@@ -1,17 +1,17 @@
 ---
-title: "Academic interests & research"
-subtitle: "Questions, small projects, and work in progress."
+title: "Academic Projects"
+subtitle: "Essays and Research Papers"
 ---
 
 <!-- RESEARCH: replace these examples with your interests and one course project. -->
 
-## What I'm curious about
+## What I'm curious about:
 
-I'm interested in how people participate in public life, how communities differ, and how data can help us ask better questions about both.
+Political Behavior, Public Policy, and Legal Advocacy
 
-- **Political participation:** Who gets involved, and what makes participation easier?
-- **Cities and communities:** How do local environments shape everyday choices?
-- **Data and communication:** How can a chart make a complex pattern easier to understand?
+- **Ideology and Voting Behavior:** What factors influence Americans' political ideology and voting behavior?
+- **Policy and Social Issues** What policies and structural changes can improve society and address social issues?
+- **Justice System and Advocacy** How can advocates achieve progress through the American justice system? What are the limitations of legal advocacy and where is reform necessary?
 
 ## A project I'm developing
 

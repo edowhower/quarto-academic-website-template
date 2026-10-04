@@ -121,28 +121,28 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Academic interests & research",
+    "title": "Academic Projects",
     "section": "",
-    "text": "I’m interested in how people participate in public life, how communities differ, and how data can help us ask better questions about both.\n\nPolitical participation: Who gets involved, and what makes participation easier?\nCities and communities: How do local environments shape everyday choices?\nData and communication: How can a chart make a complex pattern easier to understand?"
+    "text": "Political Behavior, Public Policy, and Legal Advocacy\n\nIdeology and Voting Behavior: What factors influence Americans’ political ideology and voting behavior?\nPolicy and Social Issues What policies and structural changes can improve society and address social issues?\nJustice System and Advocacy How can advocates achieve progress through the American justice system? What are the limitations of legal advocacy and where is reform necessary?"
   },
   {
     "objectID": "research.html#what-im-curious-about",
     "href": "research.html#what-im-curious-about",
-    "title": "Academic interests & research",
+    "title": "Academic Projects",
     "section": "",
-    "text": "I’m interested in how people participate in public life, how communities differ, and how data can help us ask better questions about both.\n\nPolitical participation: Who gets involved, and what makes participation easier?\nCities and communities: How do local environments shape everyday choices?\nData and communication: How can a chart make a complex pattern easier to understand?"
+    "text": "Political Behavior, Public Policy, and Legal Advocacy\n\nIdeology and Voting Behavior: What factors influence Americans’ political ideology and voting behavior?\nPolicy and Social Issues What policies and structural changes can improve society and address social issues?\nJustice System and Advocacy How can advocates achieve progress through the American justice system? What are the limitations of legal advocacy and where is reform necessary?"
   },
   {
     "objectID": "research.html#a-project-im-developing",
     "href": "research.html#a-project-im-developing",
-    "title": "Academic interests & research",
+    "title": "Academic Projects",
     "section": "A project I’m developing",
     "text": "A project I’m developing\n\nComparing life expectancy across countries\nCOURSE PROJECT · IN PROGRESS\nQuestion. How does life expectancy vary with income across countries in a given year?\nApproach. Use R to explore the historical Gapminder data and make a clearly labeled visualization.\nWhat I’m learning. Choosing the year, scale, and unit of analysis changes what readers can see. An association in a plot is a starting point for questions, not evidence of a causal effect.\nRead a reflection on this project"
   },
   {
     "objectID": "research.html#what-comes-next",
     "href": "research.html#what-comes-next",
-    "title": "Academic interests & research",
+    "title": "Academic Projects",
     "section": "What comes next",
     "text": "What comes next\nI’d like to compare the same countries over time and consider what these measures leave out."
   }

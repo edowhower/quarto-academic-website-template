@@ -19,7 +19,7 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: Research
+      - text: Projects
         href: research.qmd
       - text: Experience
         href: career.qmd
