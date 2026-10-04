@@ -123,14 +123,14 @@
     "href": "research.html",
     "title": "Academic Projects",
     "section": "",
-    "text": "Political Behavior, Public Policy, and Legal Advocacy\n\nIdeology and Voting Behavior: What factors influence Americans’ political ideology and voting behavior?\nPolicy and Social Issues What policies and structural changes can improve society and address social issues?\nJustice System and Advocacy How can advocates achieve progress through the American justice system? What are the limitations of legal advocacy and where is reform necessary?"
+    "text": "Political Behavior, Public Policy, and Legal Advocacy\n\nIdeology and Voting Behavior: What factors influence Americans’ political ideologies and voting behaviors?\nPolicy and Social Issues: What policies and structural changes will effectively address social issues?\nJustice System and Advocacy: How can legal actors achieve progress through the American justice system? What are the limitations of legal advocacy and where is reform necessary?"
   },
   {
     "objectID": "research.html#what-im-curious-about",
     "href": "research.html#what-im-curious-about",
     "title": "Academic Projects",
     "section": "",
-    "text": "Political Behavior, Public Policy, and Legal Advocacy\n\nIdeology and Voting Behavior: What factors influence Americans’ political ideology and voting behavior?\nPolicy and Social Issues What policies and structural changes can improve society and address social issues?\nJustice System and Advocacy How can advocates achieve progress through the American justice system? What are the limitations of legal advocacy and where is reform necessary?"
+    "text": "Political Behavior, Public Policy, and Legal Advocacy\n\nIdeology and Voting Behavior: What factors influence Americans’ political ideologies and voting behaviors?\nPolicy and Social Issues: What policies and structural changes will effectively address social issues?\nJustice System and Advocacy: How can legal actors achieve progress through the American justice system? What are the limitations of legal advocacy and where is reform necessary?"
   },
   {
     "objectID": "research.html#a-project-im-developing",
@@ -145,5 +145,40 @@
     "title": "Academic Projects",
     "section": "What comes next",
     "text": "What comes next\nI’d like to compare the same countries over time and consider what these measures leave out."
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Academic Projects",
+    "section": "Work in Progress:",
+    "text": "Work in Progress:\n\nAnalyzing impact of Immigration and Customs Enforcement activity on Los Angeles residents.\nRESEARCH PROJECT · IN PROGRESS\nQuestion. How do feelings of fear and anxiety caused by ICE activity in LA effect LA residents’ trust in LAPD to protect immigrant communities regardless of immigration status?\nApproach. Use Stata to analyze Study LA’s 2026 Angeleno Poll findings.\nVariables.\nIV: Level of fear and anxiety when ICE is active in LA DV: Level of trust in LAPD to protect immigrant communities regardless of their immigration statuses.\nRead a reflection on this project"
+  },
+  {
+    "objectID": "research.html#current-project",
+    "href": "research.html#current-project",
+    "title": "Academic Projects",
+    "section": "Current Project:",
+    "text": "Current Project:\n\nAnalyzing impact of Immigration and Customs Enforcement activity on Los Angeles residents.\nRESEARCH PROJECT · IN PROGRESS\nQuestion. How do feelings of fear and anxiety caused by ICE activity in LA effect LA residents’ trust in LAPD to protect immigrant communities regardless of immigration status?\nApproach. Use Stata to analyze Study LA’s 2026 Angeleno Poll findings.\nVariables.\nIV: Level of fear and anxiety when ICE is active in LA\nDV: Level of trust in LAPD to protect immigrant communities regardless of their immigration statuses."
+  },
+  {
+    "objectID": "research.html#next-steps",
+    "href": "research.html#next-steps",
+    "title": "Academic Projects",
+    "section": "Next Steps",
+    "text": "Next Steps\nCreate data brief that provides context for research topic and illustrates relationship between the two variables."
+  },
+  {
+    "objectID": "research.html#next-step",
+    "href": "research.html#next-step",
+    "title": "Academic Projects",
+    "section": "Next Step",
+    "text": "Next Step\nCreate a data brief that provides context for research topic and illustrates relationship between the two variables."
+  },
+  {
+    "objectID": "research.html#interests",
+    "href": "research.html#interests",
+    "title": "Academic Projects",
+    "section": "",
+    "text": "Political Behavior, Public Policy, and Legal Advocacy\n\nIdeology and Voting Behavior: What factors influence Americans’ political ideologies and voting behaviors?\nPolicy and Social Issues: What policies and structural changes will effectively address social issues?\nJustice System and Advocacy: How can legal actors achieve progress through the American justice system? What are the limitations of legal advocacy and where is reform necessary?"
   }
 ]

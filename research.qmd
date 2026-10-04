@@ -5,30 +5,33 @@ subtitle: "Essays and Research Papers"
 
 <!-- RESEARCH: replace these examples with your interests and one course project. -->
 
-## What I'm curious about:
+## INTERESTS:
 
-Political Behavior, Public Policy, and Legal Advocacy
+**Political Behavior, Public Policy, and Legal Advocacy**
 
-- **Ideology and Voting Behavior:** What factors influence Americans' political ideology and voting behavior?
-- **Policy and Social Issues** What policies and structural changes can improve society and address social issues?
-- **Justice System and Advocacy** How can advocates achieve progress through the American justice system? What are the limitations of legal advocacy and where is reform necessary?
+- **Ideology and Voting Behavior:** What factors influence Americans' political ideologies and voting behaviors?
+- **Policy and Social Issues:** What policies and structural changes will effectively address social issues?
+- **Justice System and Advocacy:** How can legal actors achieve progress through the American justice system? What are the limitations of legal advocacy and where is reform necessary?
 
-## A project I'm developing
+## Current Project:
 
-### Comparing life expectancy across countries
+### Analyzing impact of Immigration and Customs Enforcement activity on Los Angeles residents. 
 
-[COURSE PROJECT · IN PROGRESS]{.project-label}
+[RESEARCH PROJECT · IN PROGRESS]{.project-label}
 
-**Question.** How does life expectancy vary with income across countries in a given year?
+**Question.**  How do feelings of fear and anxiety caused by ICE activity in LA effect LA residents’ trust in LAPD to protect immigrant communities regardless of immigration status?  
 
-**Approach.** Use R to explore the historical Gapminder data and make a clearly labeled visualization.
+**Approach.** Use Stata to analyze Study LA's 2026 Angeleno Poll findings. 
 
-**What I'm learning.** Choosing the year, scale, and unit of analysis changes what readers can see. An association in a plot is a starting point for questions, not evidence of a causal effect.
+**Variables.**  
 
-[Read a reflection on this project](posts/learning-from-a-chart.qmd)
+IV: Level of fear and anxiety when ICE is active in LA 
 
-## What comes next
+DV: Level of trust in LAPD to protect immigrant communities regardless of their immigration statuses.  
 
-I'd like to compare the same countries over time and consider what these measures leave out.
+
+## Next Step
+
+Create a data brief that provides context for research topic and illustrates relationship between the two variables. 
 
 <!-- OPTIONAL: add a project link with [Project title](https://your-link). -->
