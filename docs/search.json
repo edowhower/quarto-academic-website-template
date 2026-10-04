@@ -65,7 +65,7 @@
   {
     "objectID": "career.html",
     "href": "career.html",
-    "title": "Resume",
+    "title": "Experience",
     "section": "",
     "text": "ASPIRATIONS\nAfter graduation, I plan to pursue a career in law. I am interested in civil rights law, immigration law, and bioethics law."
   },
@@ -79,7 +79,7 @@
   {
     "objectID": "career.html#experience",
     "href": "career.html#experience",
-    "title": "Resume",
+    "title": "Experience",
     "section": "Experience",
     "text": "Experience\n\nThomas & Dorothy Leavey Center for the Study of Los Angeles | Student Researcher\nJuly 2026-Present\nAnalyze datasets in Stata, generate research questions, and create data briefs to summarize findings about research topics.\n\n\nLeague of Women Voters of Santa Monica | Intern\nMay 2026-July 2026\nWorked on digital communications and community projects, wrote and researched for league ballot measure studies, gained exposure to government processes and social justice issues. Created and delivered data-driven graphics and videos utilizing Adobe, Microsoft, and Canva that supported the League’s civic education and voter outreach initiatives.\n\n\nLe Bilboquet, Atlanta, GA | Host\nJuly 2025-August 2026\nGreeted guests, prepared tables quickly and efficiently, used OpenTable’s restaurant management system to manage and assign reservations, navigated demanding customers and fast paced environment, resolved conflicts, and collaborated with the other hosts and servers to ensure guests received a positive dining experience."
   },
@@ -93,9 +93,9 @@
   {
     "objectID": "career.html#lets-connect",
     "href": "career.html#lets-connect",
-    "title": "Resume",
+    "title": "Experience",
     "section": "Let’s connect",
-    "text": "Let’s connect\nI’m happy to talk about projects, internships, and opportunities to learn.\nEmail me"
+    "text": "Let’s connect\nEmail me"
   },
   {
     "objectID": "posts/hello-world.html",
@@ -187,5 +187,19 @@
     "title": "Resume",
     "section": "",
     "text": "After graduation, I hope to attend law school and pursue a legal career. I am interested in civil rights law, immigration law, and bioethics law."
+  },
+  {
+    "objectID": "career.html#skills-i-hope-to-develop",
+    "href": "career.html#skills-i-hope-to-develop",
+    "title": "Experience",
+    "section": "Skills I hope to develop:",
+    "text": "Skills I hope to develop:\nPolicy Recommendations: Ability to assess current legislation and generate useful recommendations.Requires comprehensive understanding of public policy, government, and political theory.\nData Analysis: Ability to generate useful research questions and collect, organize, interpret, and visualize findings.\nLegal Argumentaion: Ability to deliver arguments using both logic and understanding of legal principles and precedents."
+  },
+  {
+    "objectID": "career.html#education",
+    "href": "career.html#education",
+    "title": "Experience",
+    "section": "Education",
+    "text": "Education\n\nRelevant Coursework\nPrevious\nU.S. Politics, Comparative Politics, Empirical Approaches to Politics, Introduction to Bioethics, Topics in Applied Ethics, Quantitative Skills for the Modern World, Microsoft Excel Lab, Digital Arts, Programming for Creative Application.\nCurrent\nComputational Social Science for Applied Data Analysis, United States Constitutional Law: Case Method, Foundations of Political Theory, Advanced Topics in Bioethics Seminar."
   }
 ]

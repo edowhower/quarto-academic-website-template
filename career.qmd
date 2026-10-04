@@ -1,5 +1,5 @@
 ---
-title: "Resume"
+title: "Experience"
 subtitle: "Work Experience and Education"
 ---
 
@@ -29,23 +29,34 @@ Worked on digital communications and community projects, wrote and researched fo
 
 Greeted guests, prepared tables quickly and efficiently, used OpenTable's restaurant management system to manage and assign reservations, navigated demanding customers and fast paced environment, resolved conflicts, and collaborated with the other hosts and servers to ensure guests received a positive dining experience. 
 
+## Education
+
+### Relevant Coursework
+
+[Previous]{.project-label}
+
+U.S. Politics, Comparative Politics, Empirical Approaches to Politics, Introduction to Bioethics, Topics in Applied Ethics, Quantitative Skills for the Modern World, Microsoft Excel Lab, Digital Arts, Programming for Creative Application.
+
+[Current]{.project-label}
+
+Computational Social Science for Applied Data Analysis, United States Constitutional Law: Case Method, Foundations of Political Theory, Advanced Topics in Bioethics Seminar.
+
 <!-- Add another role or volunteer project here if useful.
      Use a heading for the role, then a date and 2–3 concrete contributions.
      You do not need an internship to have useful experience to share. -->
 
-## Skills I'm building
+## Skills I hope to develop:
 
-**Research:** turning a broad interest into a focused question, finding sources, and explaining limitations.
+**Policy Recommendations:** Ability to assess current legislation and generate useful recommendations.Requires comprehensive understanding of public policy, government, and political theory.
 
-**Data:** working with R, making visualizations, and keeping a project organized.
+**Data Analysis:** Ability to generate useful research questions and collect, organize, interpret, and visualize findings. 
 
-**Collaboration:** giving useful feedback, documenting work, and contributing to a shared project.
+**Legal Argumentaion:** Ability to deliver arguments using both logic and understanding of legal principles and precedents. 
 
 ## Let's connect
 
-I'm happy to talk about projects, internships, and opportunities to learn.
 
-[Email me](mailto:you@example.com)
+[Email me](mailto:edowhow1@lion.lmu.edu)
 
 <!-- OPTIONAL: add your real LinkedIn address here, or remove this comment. -->
 <!-- OPTIONAL CV: create a files/ folder, add resume.pdf, then use [My resume](files/resume.pdf). -->
