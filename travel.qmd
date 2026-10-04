@@ -1,25 +1,31 @@
 ---
-title: "Travel & places"
-subtitle: "A few observations from outside my usual routine."
+title: "Art Gallery"
+subtitle: "Fine Arts Pieces and Other Creative Projects"
 ---
 
 <!-- TRAVEL: replace the image, location, and short reflection with your own. -->
 
-![](images/travel.jpg){.travel-photo fig-alt="Water flowing over Niagara Falls, surrounded by green trees."}
+![](images/art for website/girl on bed.png){.travel-photo fig-alt="Woman laying on bed"}
 
-## Niagara Falls
+## *Blue All the Time*
 
-[FIELD NOTES / A DIFFERENT PACE]{.project-label}
+[Acrylic on Canvas, 2023]{.project-label}
 
-Some places make it easier to slow down and pay attention. Here, the movement of the water and the scale of the landscape are a reminder to look beyond the frame of a photograph.
+I made this piece when I was spending a lot of time in my room and I felt almost like I was becoming one with my bed. It's not a self portrait but it represents the feeling I had of being trapped yet refusing to leave my place of comfort. 
 
-I'm interested in the small details that make a place feel different: how people move through it, where they gather, and what they stop to notice.
+![](images/art for website/dad.png){.travel-photo fig-alt="Woman laying on bed"}
 
-## What I want to remember
+## *Good Parenting*
 
-- The details that a photograph doesn't capture.
-- A question about the place or the people who live there.
-- Something I would notice differently on a return visit.
+[Oil on Canvas, 2024]{.project-label}
+
+I made this piece to express my gratitude for my dad. My dad has supported me in all my pursuits even when I have stumbled or changed direction. Despite living in a different state than me for most of my life, he has always made every effort to be there for me. He moved in the first place to take a higher paying job and secure a good education for my brother and I. While applying to colleges, I decided to pursue fine arts. I harbored a lot of guilt for wanting to follow a path with uncertain pay and limited opportunities; however, when I told my dad he encouraged me to try anyways. My dad's guidance and reassurance gave me the courage to strive for my goals. 
+
+When it came time to put together my portfolio, I realized I was short one piece. While reflecting on my dad's role in my life and the hard work he has put into supporting our family, I was inspired me to make this painting. I named it after a song we listened to together, which he didn't like much but listened to anyways because I wanted him to hear it. The song is Heart Emoji // Good Parenting by the band Guitar Fight from Fooly Cooly.
+
+# More Art
+
+![](images/art for website/ART FOR WEBSITE CANVA FOLDER/bubblee.png){.travel-photo fig-alt="Woman laying on bed"}
 
 <!-- Add another place by copying the image and heading pattern above. -->
 
