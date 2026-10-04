@@ -1,12 +1,12 @@
 /* Optional customization: change the dark accent color below.
    Everything else can stay as it is while you write your site. */
 :root {
-  --paper: #fcfaf6;
-  --ink: #263b35;
-  --body-ink: #424b46;
-  --accent: #326052;
-  --muted: #69716b;
-  --rule: #dcded5;
+  --paper: #F7F3E5;
+  --ink: #372B20;
+  --body-ink: #51483B;
+  --accent: #7A302D;
+  --muted: #6F7D7A;
+  --rule: #D2C8AE;
   --serif: Georgia, "Times New Roman", serif;
 }
 
