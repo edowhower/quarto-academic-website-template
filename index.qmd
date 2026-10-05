@@ -16,7 +16,7 @@ page-layout: full
 
 [Political Science Major, Data Analysis Minor, Bioethics Minor]{.hero-subtitle}
 
-I am an undergraduate student interested in the topics of politics, bioethics, and law, as well as their intersections. Here I will explore questions about public policy, emerging bio-technologies, and public sentiments regarding these two topics. In my free time I also make art!
+I am an undergraduate student interested in the topics of politics, bioethics, and law, as well as their intersections. Here I will topics like public policy, emerging bio-technologies, and applied ethics. I will also share updates on non-academic activities I enjoy ([see my art](travel.qmd){.quiet-link})!
 
 [Professional Goals & Experience](career.qmd){.primary-link} [Contact Me](mailto:edowhow1@lion.lmu.edu){.quiet-link}
 :::
