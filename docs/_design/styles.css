@@ -64,6 +64,7 @@ h1.display-name { font-size: clamp(3.6rem, 6.2vw, 5.6rem); line-height: 1; margi
 .home-note p:last-child a { font-size: .9rem; }
 
 /* Photos and the automatic blog list. */
+.featured-photo { width: 100%; border-radius: 0; }
 .travel-photo { width: 60%; border-radius: 0; }
 .quarto-listing { margin-top: 2rem; }
 .quarto-listing-default .quarto-post { border-bottom: 1px solid var(--rule); padding: 1.5rem 0; margin: 0; }

@@ -5,7 +5,7 @@ subtitle: "Fine Arts Pieces and Other Creative Projects"
 
 <!-- TRAVEL: replace the image, location, and short reflection with your own. -->
 
-![](images/art for website/girl on bed.png){.travel-photo fig-alt="Woman laying on bed"}
+![](images/art for website/girl on bed.png){.featured-photo fig-alt="Woman laying on bed"}
 
 ## *Blue All the Time*
 
@@ -13,7 +13,7 @@ subtitle: "Fine Arts Pieces and Other Creative Projects"
 
 I made this piece when I was spending a lot of time in my room and I felt almost like I was becoming one with my bed. It's not a self portrait but it represents the feeling I had of being trapped yet refusing to leave my place of comfort. 
 
-![](images/art for website/dad.png){.travel-photo fig-alt="Woman laying on bed"}
+![](images/art for website/dad.png){.featured-photo fig-alt="dad"}
 
 ## *Good Parenting*
 
@@ -25,7 +25,29 @@ When it came time to put together my portfolio, I realized I was short one piece
 
 # More Art
 
-![](images/art for website/ART FOR WEBSITE CANVA FOLDER/bubblee.png){.travel-photo fig-alt="Woman laying on bed"}
+![](images/art for website/ART FOR WEBSITE CANVA FOLDER/bubblee.png){.travel-photo fig-alt="bubble"}
+
+## *Bubble*
+
+[Acrylic on Canvas, 2023]{.project-label}
+
+![](images/art for website/ART FOR WEBSITE CANVA FOLDER/hand.png){.travel-photo fig-alt="Hands"}
+
+## Malleable
+
+[Oil Pastel on Paper, 2022]{.project-label}
+
+![](images/art for website/ART FOR WEBSITE CANVA FOLDER/cookie.png){.travel-photo fig-alt="cookie"}
+
+## *Cookie & Milk* 
+
+[Charcoal on Paper, 2022]{.project-label}
+
+![](images/art for website/sculpture.png){.travel-photo fig-alt="Sculpture"}
+
+## *I Wish I Felt It*
+
+[Plaster Sculpture in Wooden and Plastic Frame, 2025]{.project-label}
 
 <!-- Add another place by copying the image and heading pattern above. -->
 
