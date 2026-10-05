@@ -30,21 +30,22 @@ I am an undergraduate student interested in the topics of politics, bioethics, a
 
 ::::: home-notes
 ::: home-note
-[01 / IN THE CLASSROOM]{.eyebrow}
+[Political Research]{.eyebrow}
 
-## Questions worth asking
+## Explorations
 
-How do the places we live shape our opportunities? I'm learning to turn broad questions into small, careful research projects.
+Political Behavior, Public Policy, and Legal Advocacy
 
-[Academic interests & research](research.qmd)
+
+[Essays and Research](research.qmd)
 :::
 
 ::: home-note
-[02 / BEYOND THE CLASSROOM]{.eyebrow}
+[Ethics and Philosophy in Modern Life]{.eyebrow}
 
-## Learning by noticing
+## Explorations
 
-A new place, a good conversation, or a surprising chart can be the start of an idea. I keep those observations in my blog.
+Ethics, Philosophy, Morality, Metaphysics, Theory, Science and Innovation
 
 [Read my latest notes](blog.qmd)
 :::
