@@ -1,19 +1,20 @@
 ---
-title: "A place to keep my questions"
-date: "2026-09-21"
-description: "Why I'm starting this notebook, and what I hope to put in it."
+title: "Bioethics Reflections"
+date: "2026-10-4"
+description: "Reflections about pressing issues in the bioethics field"
 ---
 
-This website begins with a simple idea: make a little space for work that is still taking shape.
+## Topics:
 
-Not every post needs to be a finished argument. I want to use this notebook to explain something I've learned, record a question that stayed with me, or connect an idea from class to something I noticed elsewhere.
-
-## What I'll write about
-
-I expect to share reflections on course projects, small discoveries while learning R, and observations from places I visit. Over time, these notes should show how my questions change.
-
-## A question to start with
-
-What makes an explanation useful to someone who hasn't taken the same class? That's something I'd like to practice here.
+### PGD (Preimplantation Genetic Diagnosis) and IVF (In Vitro Fertilization)
+### Human Germline Gene Editing
+### Abortion 
+### IVG (In Vitro Gametogenesis)
+### Social Media
+### AI 
+### BCI's (brain-computer interface)
+### End of Life Care 
+### Physician Assisted Suicide and Euthanasia 
+### Research Ethics Standards of Conduct
 
 [Back to all posts](../blog.qmd)

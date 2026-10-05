@@ -19,15 +19,17 @@ subtitle: "Essays and Research"
 
 [RESEARCH PROJECT · IN PROGRESS]{.project-label}
 
+**Role:** Student Researcher
+
 **Question:**  How do feelings of fear and anxiety caused by ICE activity in LA effect LA residents’ trust in LAPD to protect immigrant communities regardless of immigration status?  
 
 **Approach:** Use Stata to analyze Study LA's 2026 Angeleno Poll findings and examine significance of relationship between IV and DV. 
 
 **Variables:**  
 
-IV: Level of fear and anxiety when ICE is active in LA 
+*IV:* Level of fear and anxiety when ICE is active in LA 
 
-DV: Level of trust in LAPD to protect immigrant communities regardless of their immigration statuses.  
+*DV:* Level of trust in LAPD to protect immigrant communities regardless of their immigration statuses.  
 
 ## Next Step
 
@@ -37,14 +39,17 @@ Create a data brief that provides context for research topic and illustrates rel
 
 ### **Impact of party affiliation on Americans' level of trust in media.**
 
-[COURSE PROJECT · 2026]{.project-label}
+[COURSE PROJECT (PARTNERED PROJECT) · 2026]{.project-label}
 
-**Question:**  To what extent does one’s party affiliation influence their level of trust in the media?
+**Role:** Co-Author 
+
+**Question:**  To what extent does one’s party affiliation influence their level of trust in mainstream media?
 
 **Variables:** 
-IV: Party ID (Party Affiliation)
 
-DV: Level of trust in Media
+*IV:* Party ID (Party Affiliation)
+
+*DV:* Level of trust in Media
 
 **Hypotheses:** 
 
@@ -52,7 +57,17 @@ DV: Level of trust in Media
 
 *H₂* - When controlling for trust in the federal government, we expect that party identification will have an interactive relationship with trust in the media. We expect that democrats with low trust in government will have a less significant decrease in trust in media than their Republican counterparts. 
 
-**Approach:** Use R to analyze National Elections Dataset findings about IV and DV and test significance of relationship. 
+**Approach:** Used R to analyze National Elections Data set and test significance of relationship between IV and DV.
+
+**Findings:** 
+
+*overview:* The percentage of Republicans who responded that they have no trust in the media was significantly higher than the percentage of their Democrat counterparts. 57.24% of Republicans report no trust in the media, compared with 10.71% of Democrats.
+
+*Significance:* When we performed a test of significance, we found that Republicans are between 44.2 and 48.8 percentage points more likely to have no trust in the media compared to Democrats. Our p-value was well below 0.05 at 2.53 × 10⁻²⁴⁰; therefore, we rejected the null hypothesis and supported our claim that Americans' party affiliations impact their levels of trust in the media. 
+
+*Control:* Contrary to our hypothesis, we found that, when controlling for trust in the federal government, republicans’ level of distrust in media remains consistent across frequency of trust in government.
+
+
 
 
 

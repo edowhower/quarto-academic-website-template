@@ -1,6 +1,6 @@
 ---
-title: "Notes & reflections"
-subtitle: "Ideas from class, projects, and everyday life."
+title: "Ethics and Philosophy in Modern Life"
+subtitle: "Speculations about ethics in science, media, and human relationships."
 # The list updates automatically when you add a .qmd file to posts/ and render the website.
 listing:
   contents: posts/*.qmd
@@ -13,4 +13,4 @@ listing:
   categories: false
 ---
 
-A notebook for things I'm learning, questions I haven't answered yet, and observations I want to keep.
+Here I will post essays and informal reflections about ethics and philosophy as applied to different facets of modern life. 
