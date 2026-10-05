@@ -31,17 +31,63 @@ When it came time to put together my portfolio, I realized I was short one piece
 
 [Acrylic on Canvas, 2023]{.project-label}
 
+
+
 ![](images/art for website/ART FOR WEBSITE CANVA FOLDER/hand.png){.travel-photo fig-alt="Hands"}
 
 ## Malleable
 
 [Oil Pastel on Paper, 2022]{.project-label}
 
+
+
+![](images/art for website/kiki.png){.travel-photo fig-alt="kiki"}
+
+## *Kiki*
+
+[Ink and Graphite on Paper, 2024]{.project-label}
+
+
+
+![](images/art for website/mirror.png){.travel-photo fig-alt="mirror"}
+
+## Ink Study
+
+[Ink and Graphite on Paper, 2024]{.project-label}
+
+
+
 ![](images/art for website/ART FOR WEBSITE CANVA FOLDER/cookie.png){.travel-photo fig-alt="cookie"}
 
 ## *Cookie & Milk* 
 
-[Charcoal on Paper, 2022]{.project-label}
+[Charcoal on Paper, 2025]{.project-label}
+
+
+
+![](images/art for website/woman life drawing.png){.travel-photo fig-alt="life"}
+
+## Figure Drawing Study
+
+[Charcoal on Paper, 2023]{.project-label}
+
+
+
+![](images/art for website/ART FOR WEBSITE CANVA FOLDER/wood.png){.travel-photo fig-alt="wood"}
+
+## Wooden Texture Study
+
+[Graphite on Paper, 2023]{.project-label}
+
+
+
+![](images/art for website/ART FOR WEBSITE CANVA FOLDER/bunnie.png){.travel-photo fig-alt="bunnies"}
+
+## *I Never Considered Myself Tough // Strength in Numbers*
+
+[Ink on Paper, 2023]{.project-label}
+
+
 
 ![](images/art for website/sculpture.png){.travel-photo fig-alt="Sculpture"}
 
