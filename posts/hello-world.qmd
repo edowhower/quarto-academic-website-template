@@ -4,17 +4,53 @@ date: "2026-10-4"
 description: "Reflections about pressing issues in the bioethics field."
 ---
 
-## Topics:
+## **Topics**
 
-### PGD (Preimplantation Genetic Diagnosis) and IVF (In Vitro Fertilization)
-### Human Germline Gene Editing
-### Abortion 
-### IVG (In Vitro Gametogenesis)
-### Social Media
-### AI 
-### BCI's (brain-computer interface)
-### End of Life Care 
-### Physician Assisted Suicide and Euthanasia 
-### Research Ethics Standards of Conduct
+## **1. Reproductive care and technologies** - PGD (Preimplantation Genetic Diagnosis) - IVF (In Vitro Fertilization) - Human Germline Gene Editing - Abortion - IVG (In Vitro Gametogenesis)
+## **2. Social Media**
+## **3. AI and LLMS**
+## **4. Human-Technology integration** - BCIs (brain-computer interfaces)
+## **5. End of Life Care** - Physician Assisted Suicide - Euthanasia 
+## **6. Research Conduct**
+
+---
+
+## **Reflections**
+
+### **1. Reproductive care and technologies**
+
+*PGD (Preimplantation Genetic Diagnosis) and IVF (In Vitro Fertilization)*
+
+*Human Germline Gene Editing*
+
+*IVG (In Vitro Gametogenesis)*
+
+*Abortion*
+
+### **2. Social Media**
+
+### **3. AI and LLMS**
+
+
+
+### **4. Human-Technology Integration** 
+
+*BCI's (brain-computer interface)*
+
+
+
+### **5. End of Life Care**
+
+*Physician Assisted Suicide*
+
+*Euthanasia *
+
+### **6. Research Ethics and Standards of Conduct**
+
+*Research with Human Subjects*
+
+*Research on Vulnerable Groups (Children, Pegnant Women/Fetuses/Neonates, Prisoners)*
+
+---
 
 [Back to all posts](../blog.qmd)

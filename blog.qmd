@@ -1,5 +1,5 @@
 ---
-title: "Ethics and Philosophy in Modern Life"
+title: "Applied Ethics and Philosophy"
 subtitle: "Speculations about ethics in science, media, and human relationships."
 # The list updates automatically when you add a .qmd file to posts/ and render the website.
 listing:
