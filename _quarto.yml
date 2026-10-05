@@ -14,7 +14,7 @@ website:
   title: "Eleanor Dowhower"
   description: "A website for Eleanor's political research, ethics reflections, and personal projects."
   # Later, when published, uncomment and replace the address below.
-  # site-url: "https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/"
+  site-url: "https://edowhower.github.io/quarto-academic-website-template/"
   navbar:
     left:
       - text: Home
