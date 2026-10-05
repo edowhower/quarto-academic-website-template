@@ -27,7 +27,7 @@ When it came time to put together my portfolio, I realized I was short one piece
 
 ![](images/art for website/ART FOR WEBSITE CANVA FOLDER/bubblee.png){.travel-photo fig-alt="bubble"}
 
-## *Bubble*
+### *Bubble*
 
 [Acrylic on Canvas, 2023]{.project-label}
 
@@ -35,7 +35,7 @@ When it came time to put together my portfolio, I realized I was short one piece
 
 ![](images/art for website/ART FOR WEBSITE CANVA FOLDER/hand.png){.travel-photo fig-alt="Hands"}
 
-## Malleable
+### Malleable
 
 [Oil Pastel on Paper, 2022]{.project-label}
 
@@ -43,7 +43,7 @@ When it came time to put together my portfolio, I realized I was short one piece
 
 ![](images/art for website/kiki.png){.travel-photo fig-alt="kiki"}
 
-## *Kiki*
+### *Kiki*
 
 [Ink and Graphite on Paper, 2024]{.project-label}
 
@@ -51,7 +51,7 @@ When it came time to put together my portfolio, I realized I was short one piece
 
 ![](images/art for website/mirror.png){.travel-photo fig-alt="mirror"}
 
-## Ink Study
+### Ink Study
 
 [Ink and Graphite on Paper, 2024]{.project-label}
 
@@ -59,7 +59,7 @@ When it came time to put together my portfolio, I realized I was short one piece
 
 ![](images/art for website/ART FOR WEBSITE CANVA FOLDER/cookie.png){.travel-photo fig-alt="cookie"}
 
-## *Cookie & Milk* 
+### *Cookie & Milk* 
 
 [Charcoal on Paper, 2025]{.project-label}
 
@@ -67,7 +67,7 @@ When it came time to put together my portfolio, I realized I was short one piece
 
 ![](images/art for website/woman life drawing.png){.travel-photo fig-alt="life"}
 
-## Figure Drawing Study
+### Figure Drawing Study
 
 [Charcoal on Paper, 2023]{.project-label}
 
@@ -75,7 +75,7 @@ When it came time to put together my portfolio, I realized I was short one piece
 
 ![](images/art for website/ART FOR WEBSITE CANVA FOLDER/wood.png){.travel-photo fig-alt="wood"}
 
-## Wooden Texture Study
+### Wooden Texture Study
 
 [Graphite on Paper, 2023]{.project-label}
 
@@ -83,7 +83,7 @@ When it came time to put together my portfolio, I realized I was short one piece
 
 ![](images/art for website/ART FOR WEBSITE CANVA FOLDER/bunnie.png){.travel-photo fig-alt="bunnies"}
 
-## *I Never Considered Myself Tough // Strength in Numbers*
+### *Strength in Numbers*
 
 [Ink on Paper, 2023]{.project-label}
 
@@ -91,10 +91,10 @@ When it came time to put together my portfolio, I realized I was short one piece
 
 ![](images/art for website/sculpture.png){.travel-photo fig-alt="Sculpture"}
 
-## *I Wish I Felt It*
+### *I Wish I Felt It*
 
 [Plaster Sculpture in Wooden and Plastic Frame, 2025]{.project-label}
 
 <!-- Add another place by copying the image and heading pattern above. -->
 
-[More observations on the blog](blog.qmd)
+[Art Instagram](https://www.instagram.com/edow.art?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==)
