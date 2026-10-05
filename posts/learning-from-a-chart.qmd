@@ -6,19 +6,21 @@ description: "Reflections and essays about ethical systems and their impacts on 
 
 # Topics
 
-## Ethics in Politics
-## Ethics in Media (Arts and Communications)
-## Ethics in Business
+## 1. Ethics in Politics
+## 2. Ethics in Media (Arts and Communications)
+## 3. Ethics in Business
 
-### Ethics in Politics
+# Reflections
 
-[Insert Notes]
-
-### Ethics in Media (Arts and Communications)
+### 1. Ethics in Politics
 
 [Insert Notes]
 
-### Ethics in Business
+### 2. Ethics in Media (Arts and Communications)
+
+[Insert Notes]
+
+### 3. Ethics in Business
 
 [Insert Notes]
 
