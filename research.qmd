@@ -1,6 +1,6 @@
 ---
-title: "Academic Projects"
-subtitle: "Essays and Research Papers"
+title: "Projects"
+subtitle: "Essays and Research"
 ---
 
 <!-- RESEARCH: replace these examples with your interests and one course project. -->
@@ -13,9 +13,9 @@ subtitle: "Essays and Research Papers"
 - **Policy and Social Issues:** What policies and structural changes will effectively address social issues?
 - **Justice System and Advocacy:** How can legal actors achieve progress through the American justice system? What are the limitations of legal advocacy and where is reform necessary?
 
-## Current Project:
+# Current Project:
 
-### Analyzing impact of Immigration and Customs Enforcement activity on Los Angeles residents. 
+### Impact of Immigration and Customs Enforcement activity on Los Angeles residents' trust in law enforcement. 
 
 [RESEARCH PROJECT · IN PROGRESS]{.project-label}
 
@@ -29,9 +29,26 @@ IV: Level of fear and anxiety when ICE is active in LA
 
 DV: Level of trust in LAPD to protect immigrant communities regardless of their immigration statuses.  
 
-
 ## Next Step
 
 Create a data brief that provides context for research topic and illustrates relationship between the two variables. 
+
+# Past Projects:
+
+### Impact of party affiliation on Americans' level of trust in media.
+
+[RESEARCH PROJECT · 2026]{.project-label}
+
+**Question.**  To what extent does one’s party affiliation influence their level of trust in the media? 
+
+**Approach.** Use Stata to analyze Study LA's 2026 Angeleno Poll findings. 
+
+**Variables.**  
+
+IV: Level of fear and anxiety when ICE is active in LA 
+
+DV: Level of trust in LAPD to protect immigrant communities regardless of their immigration statuses. 
+
+
 
 <!-- OPTIONAL: add a project link with [Project title](https://your-link). -->
