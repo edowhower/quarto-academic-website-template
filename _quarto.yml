@@ -21,7 +21,7 @@ website:
         href: index.qmd
       - text: Projects
         href: research.qmd
-      - text: Experience
+      - text: Career
         href: career.qmd
       - text: Art
         href: travel.qmd
