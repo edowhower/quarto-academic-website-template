@@ -4,10 +4,22 @@ date: "2026-10-2"
 description: "Reflections and essays about ethical systems and their impacts on modern society"
 ---
 
-## Topics
+# Topics
+
+## Ethics in Politics
+## Ethics in Media (Arts and Communications)
+## Ethics in Business
 
 ### Ethics in Politics
-### Ethics in Media (Art and Communications)
+
+[Insert Notes]
+
+### Ethics in Media (Arts and Communications)
+
+[Insert Notes]
+
 ### Ethics in Business
+
+[Insert Notes]
 
 [Back to all posts](../blog.qmd)
