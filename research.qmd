@@ -15,15 +15,15 @@ subtitle: "Essays and Research"
 
 # Current Project:
 
-### Impact of Immigration and Customs Enforcement activity on Los Angeles residents' trust in law enforcement. 
+### **Impact of Immigration and Customs Enforcement activity on Los Angeles residents' trust in law enforcement.**
 
 [RESEARCH PROJECT · IN PROGRESS]{.project-label}
 
-**Question.**  How do feelings of fear and anxiety caused by ICE activity in LA effect LA residents’ trust in LAPD to protect immigrant communities regardless of immigration status?  
+**Question:**  How do feelings of fear and anxiety caused by ICE activity in LA effect LA residents’ trust in LAPD to protect immigrant communities regardless of immigration status?  
 
-**Approach.** Use Stata to analyze Study LA's 2026 Angeleno Poll findings. 
+**Approach:** Use Stata to analyze Study LA's 2026 Angeleno Poll findings and examine significance of relationship between IV and DV. 
 
-**Variables.**  
+**Variables:**  
 
 IV: Level of fear and anxiety when ICE is active in LA 
 
@@ -35,19 +35,24 @@ Create a data brief that provides context for research topic and illustrates rel
 
 # Past Projects:
 
-### Impact of party affiliation on Americans' level of trust in media.
+### **Impact of party affiliation on Americans' level of trust in media.**
 
-[RESEARCH PROJECT · 2026]{.project-label}
+[COURSE PROJECT · 2026]{.project-label}
 
-**Question.**  To what extent does one’s party affiliation influence their level of trust in the media? 
+**Question:**  To what extent does one’s party affiliation influence their level of trust in the media?
 
-**Approach.** Use Stata to analyze Study LA's 2026 Angeleno Poll findings. 
+**Variables:** 
+IV: Party ID (Party Affiliation)
 
-**Variables.**  
+DV: Level of trust in Media
 
-IV: Level of fear and anxiety when ICE is active in LA 
+**Hypotheses:** 
 
-DV: Level of trust in LAPD to protect immigrant communities regardless of their immigration statuses. 
+*H₁* - Those who identify as Republicans are more likely than those who identify as Democrats to distrust the media.
+
+*H₂* - When controlling for trust in the federal government, we expect that party identification will have an interactive relationship with trust in the media. We expect that democrats with low trust in government will have a less significant decrease in trust in media than their Republican counterparts. 
+
+**Approach:** Use R to analyze National Elections Dataset findings about IV and DV and test significance of relationship. 
 
 
 
