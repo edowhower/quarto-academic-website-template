@@ -1,19 +1,13 @@
 ---
-title: "What a chart can tell me"
-date: "2026-09-18"
-description: "A reflection on choosing a scale, naming a variable, and asking a better question."
+title: "Ethics in Modern Life"
+date: "2026-10-2"
+description: "Reflections and essays about ethical systems and their impacts on modern society"
 ---
 
-A chart makes some patterns easier to see, but it also reflects a series of choices. Which observations belong in the plot? What belongs on each axis? Which differences deserve attention?
+## Topics
 
-## One choice that matters
-
-In a comparison of income and life expectancy, a logarithmic income axis changes the spacing of the values. That can help reveal patterns that are difficult to see when a few large values stretch the scale.
-
-## What I still need to ask
-
-A visible association does not explain why the pattern exists. Before moving from description to explanation, I need to think about the research question, the data, and possible alternative explanations.
-
-My next step is to describe the plot in one careful sentence, then write down a question it cannot answer.
+### Ethics in Politics
+### Ethics in Media (Art and Communications)
+### Ethics in Business
 
 [Back to all posts](../blog.qmd)
