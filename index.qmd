@@ -18,7 +18,7 @@ page-layout: full
 
 I am an undergraduate student interested in the topics of politics, bioethics, and law, as well as their intersections. Here I will explore questions about public policy, emerging bio-technologies, and public sentiments regarding these two topics. In my free time I also make art!
 
-[See My Projects](research.qmd){.primary-link} [Contact Me](mailto:edowhow1@lion.lmu.edu){.quiet-link}
+[Professional Goals & Experience](career.qmd){.primary-link} [Contact Me](mailto:edowhow1@lion.lmu.edu){.quiet-link}
 :::
 
 ::: hero-photo
@@ -47,6 +47,6 @@ Political Behavior, Public Policy, and Legal Advocacy
 
 Ethics, Philosophy, Morality, Metaphysics, Theory, Science and Innovation
 
-[Read my latest notes](blog.qmd)
+[Read my Latest Reflections](blog.qmd)
 :::
 :::::

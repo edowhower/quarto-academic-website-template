@@ -1,6 +1,6 @@
 ---
-title: "Experience"
-subtitle: "Work Experience and Education"
+title: "Career"
+subtitle: "Professional Experience, Aspirations and Education"
 ---
 
 <!-- CAREER: replace these examples with your own experience. Class and volunteer projects count. -->

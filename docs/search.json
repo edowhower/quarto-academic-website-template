@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "STUDENT / RESEARCHER / ARTIST\n\n\nPolitical Science Major, Data Analysis Minor, Bioethics Minor\nI am an undergraduate student interested in the topics of politics, bioethics, and law, as well as their intersections. Here I will explore questions about public policy, emerging bio-technologies, and public sentiments regarding these two topics. In my free time I also make art!\nSee My Projects Contact Me"
+    "text": "STUDENT / RESEARCHER / ARTIST\n\n\nPolitical Science Major, Data Analysis Minor, Bioethics Minor\nI am an undergraduate student interested in the topics of politics, bioethics, and law, as well as their intersections. Here I will explore questions about public policy, emerging bio-technologies, and public sentiments regarding these two topics. In my free time I also make art!\nProfessional Goals & Experience Contact Me"
   },
   {
     "objectID": "index.html#questions-worth-asking",
@@ -65,7 +65,7 @@
   {
     "objectID": "career.html",
     "href": "career.html",
-    "title": "Experience",
+    "title": "Career",
     "section": "",
     "text": "ASPIRATIONS\nAfter graduation, I plan to pursue a career in law. I am interested in civil rights law, immigration law, and bioethics law."
   },
@@ -79,7 +79,7 @@
   {
     "objectID": "career.html#experience",
     "href": "career.html#experience",
-    "title": "Experience",
+    "title": "Career",
     "section": "Experience",
     "text": "Experience\n\nThomas & Dorothy Leavey Center for the Study of Los Angeles | Student Researcher\nJuly 2026-Present\nAnalyze datasets in Stata, generate research questions, and create data briefs to summarize findings about research topics.\n\n\nLeague of Women Voters of Santa Monica | Intern\nMay 2026-July 2026\nWorked on digital communications and community projects, wrote and researched for league ballot measure studies, gained exposure to government processes and social justice issues. Created and delivered data-driven graphics and videos utilizing Adobe, Microsoft, and Canva that supported the League’s civic education and voter outreach initiatives.\n\n\nLe Bilboquet, Atlanta, GA | Host\nJuly 2025-August 2026\nGreeted guests, prepared tables quickly and efficiently, used OpenTable’s restaurant management system to manage and assign reservations, navigated demanding customers and fast paced environment, resolved conflicts, and collaborated with the other hosts and servers to ensure guests received a positive dining experience."
   },
@@ -93,7 +93,7 @@
   {
     "objectID": "career.html#lets-connect",
     "href": "career.html#lets-connect",
-    "title": "Experience",
+    "title": "Career",
     "section": "Let’s connect",
     "text": "Let’s connect\nEmail me"
   },
@@ -156,9 +156,9 @@
   {
     "objectID": "research.html#current-project",
     "href": "research.html#current-project",
-    "title": "Academic Projects",
+    "title": "Projects",
     "section": "Current Project:",
-    "text": "Current Project:\n\nAnalyzing impact of Immigration and Customs Enforcement activity on Los Angeles residents.\nRESEARCH PROJECT · IN PROGRESS\nQuestion. How do feelings of fear and anxiety caused by ICE activity in LA effect LA residents’ trust in LAPD to protect immigrant communities regardless of immigration status?\nApproach. Use Stata to analyze Study LA’s 2026 Angeleno Poll findings.\nVariables.\nIV: Level of fear and anxiety when ICE is active in LA\nDV: Level of trust in LAPD to protect immigrant communities regardless of their immigration statuses."
+    "text": "Current Project:\n\nImpact of Immigration and Customs Enforcement activity on Los Angeles residents’ trust in law enforcement.\nRESEARCH PROJECT · IN PROGRESS\nRole: Student Researcher\nQuestion: How do feelings of fear and anxiety caused by ICE activity in LA effect LA residents’ trust in LAPD to protect immigrant communities regardless of immigration status?\nApproach: Use Stata to analyze Study LA’s 2026 Angeleno Poll findings and examine significance of relationship between IV and DV.\nVariables:\nIV: Level of fear and anxiety when ICE is active in LA\nDV: Level of trust in LAPD to protect immigrant communities regardless of their immigration statuses.\nNext Step\nCreate data brief that provides context for research topic and illustrates relationship between the two variables."
   },
   {
     "objectID": "research.html#next-steps",
@@ -191,14 +191,14 @@
   {
     "objectID": "career.html#skills-i-hope-to-develop",
     "href": "career.html#skills-i-hope-to-develop",
-    "title": "Experience",
+    "title": "Career",
     "section": "Skills I hope to develop:",
     "text": "Skills I hope to develop:\nPolicy Recommendations: Ability to assess current legislation and generate useful recommendations.Requires comprehensive understanding of public policy, government, and political theory.\nData Analysis: Ability to generate useful research questions and collect, organize, interpret, and visualize findings.\nLegal Argumentaion: Ability to deliver arguments using both logic and understanding of legal principles and precedents."
   },
   {
     "objectID": "career.html#education",
     "href": "career.html#education",
-    "title": "Experience",
+    "title": "Career",
     "section": "Education",
     "text": "Education\n\nRelevant Coursework\nPrevious\nU.S. Politics, Comparative Politics, Empirical Approaches to Politics, Introduction to Bioethics, Topics in Applied Ethics, Quantitative Skills for the Modern World, Microsoft Excel Lab, Digital Arts, Programming for Creative Application.\nCurrent\nComputational Social Science for Applied Data Analysis, United States Constitutional Law: Case Method, Foundations of Political Theory, Advanced Topics in Bioethics Seminar."
   },
@@ -319,7 +319,7 @@
     "href": "index.html#interests",
     "title": "Home",
     "section": "Interests",
-    "text": "Interests\nEthics, Philosophy, Morality, Metaphysics, Theory, Science and Innovation\nRead my latest notes"
+    "text": "Interests\nEthics, Philosophy, Morality, Metaphysics, Theory, Science and Innovation\nRead my Latest Reflections"
   },
   {
     "objectID": "posts/hello-world.html#research-ethics-standards-of-conduct",
@@ -376,5 +376,12 @@
     "title": "Bioethics",
     "section": "Reflections",
     "text": "Reflections\n\n1. Reproductive care and technologies\nPGD (Preimplantation Genetic Diagnosis) and IVF (In Vitro Fertilization)\nHuman Germline Gene Editing\nIVG (In Vitro Gametogenesis)\nAbortion\n\n\n2. Social Media\n\n\n3. AI and LLMS\n\n\n4. Human-Technology Integration\nBCI’s (brain-computer interface)\n\n\n5. End of Life Care\nPhysician Assisted Suicide\nEuthanasia \n\n\n6. Research Ethics and Standards of Conduct\nResearch with Human Subjects\nResearch on Vulnerable Groups (Children, Pegnant Women/Fetuses/Neonates, Prisoners)\n\nBack to all posts"
+  },
+  {
+    "objectID": "research.html#completed-project",
+    "href": "research.html#completed-project",
+    "title": "Projects",
+    "section": "Completed Project:",
+    "text": "Completed Project:\n\nImpact of party affiliation on Americans’ level of trust in media.\nCOURSE PROJECT (PARTNERED PROJECT) · 2026\nRole: Co-Author\nQuestion: To what extent does one’s party affiliation influence their level of trust in mainstream media?\nVariables:\nIV: Party ID (Party Affiliation)\nDV: Level of trust in Media\nHypotheses:\nH₁ - Those who identify as Republicans are more likely than those who identify as Democrats to distrust the media.\nH₂ - When controlling for trust in the federal government, we expect that party identification will have an interactive relationship with trust in the media. We expect that democrats with low trust in government will have a less significant decrease in trust in media than their Republican counterparts.\nApproach: Used R to analyze National Elections Data set and test significance of relationship between IV and DV.\nFindings:\noverview: The percentage of Republicans who responded that they have no trust in the media was significantly higher than the percentage of their Democrat counterparts. 57.24% of Republicans report no trust in the media, compared with 10.71% of Democrats.\nSignificance: When we performed a test of significance, we found that Republicans are between 44.2 and 48.8 percentage points more likely to have no trust in the media compared to Democrats. Our p-value was well below 0.05 at 2.53 × 10⁻²⁴⁰; therefore, we rejected the null hypothesis and supported our claim that Americans’ party affiliations impact their levels of trust in the media.\nControl: Contrary to our hypothesis, we found that, when controlling for trust in the federal government, republicans’ level of distrust in media remains consistent across frequency of trust in government."
   }
 ]
