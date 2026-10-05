@@ -12,7 +12,7 @@ metadata-files:
 
 website:
   title: "Eleanor Dowhower"
-  description: "A student website about research, work, and the world beyond class."
+  description: "A website for Eleanor's political research, ethics reflections, and personal projects."
   # Later, when published, uncomment and replace the address below.
   # site-url: "https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/"
   navbar:

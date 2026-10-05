@@ -1,5 +1,5 @@
 ---
-title: "Bioethics"
+title: "Biotechnologies"
 date: "2026-10-4"
 description: "Reflections about pressing issues in the bioethics field."
 ---
