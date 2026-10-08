@@ -1,5 +1,6 @@
 ---
 title: "Home"
+author: Eleanor Dowhower
 body-classes: home-page
 page-layout: full
 ---
