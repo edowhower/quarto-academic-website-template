@@ -1,0 +1,87 @@
+---
+title: "Comparing executive orders between 2009 and 2025, what issues did each administration focus on and how did they address them?"
+subtitle: "Text Analysis Project Showcase · November 3, 2026"
+author: "Eleanor Dowhower · POLS 4130 · Fall 2026"
+format:
+  html:
+    page-layout: custom
+    embed-resources: true
+    toc: false
+    theme: flatly
+---
+
+<!-- Run W9-1–8 first, then replace every bracketed prompt below and Render.
+     Keep the existing layout. Both PNGs come from your R script. -->
+
+<style>
+body { margin: 0 auto; padding: 40px 48px; max-width: 1500px; box-sizing: border-box; background: #f7f3ea; color: #17233b; font-family: "Avenir Next", Arial, sans-serif; }
+#quarto-content { max-width: 100%; }
+#title-block-header { border-bottom: 6px solid #c92a3d; margin-bottom: 30px; }
+h1.title { font-size: 48px; font-weight: 700; line-height: 1.1; }
+.subtitle { font-size: 24px; }
+.poster { display: grid; grid-template-columns: 1fr 1.25fr 1fr; gap: 36px; font-size: 21px; line-height: 1.4; }
+.poster h2 { font-size: 28px; color: #c92a3d; margin-top: 0; }
+.poster h3 { font-size: 23px; color: #17233b; }
+.poster ul { padding-left: 22px; }
+.poster .cell { margin: 12px 0; }
+.small-source { margin-top: 26px; font-size: 17px; border-top: 1px solid #ddd9d0; padding-top: 16px; }
+@media(max-width: 900px) { .poster { display: block; } .poster > div { margin-bottom: 28px; } h1.title { font-size: 36px; } body { padding: 20px; } }
+</style>
+
+::: {.poster}
+::: {.column-one}
+## Question
+
+[State one question that both sentiment and topics help answer.]
+
+### Data
+
+[Name the source, date range, selection rule, number of documents, and what one row represents.]
+
+### Methods
+
+**Sentiment:** [Name your dictionary. Explain that you summed matched values within each document and averaged document scores by group. Report coverage.]
+
+**Topics:** [State your preprocessing, chosen k and why, and how many documents retained words for modeling. Explain that you checked keywords against original texts.]
+:::
+
+::: {.column-two}
+## Sentiment finding
+
+[State one finding from your sentiment figure.]
+
+![](outputs/sentiment.png){fig-alt="Mean document dictionary scores by comparison group."}
+
+[Caption: identify the corpus, groups, and what the bars measure.]
+
+## Topic finding
+
+[State one finding using the topic labels you developed from words and texts.]
+
+![](outputs/topics.png){fig-alt="Average estimated topic proportions across modeled documents."}
+
+[Caption: identify the modeled corpus, k, and what the bars measure.]
+:::
+
+::: {.column-three}
+## Check the original texts
+
+**Sentiment:** [Quote a short passage with its document ID or source link. Explain whether its score captures the wording.]
+
+**Topics:** [Give keywords and a short passage that support one label. Include an ambiguous example.]
+
+### Limits
+
+**Sentiment:** [Describe a concrete mismatch or context the dictionary misses.]
+
+**Topics:** [Describe a mixed theme, sensitivity to a choice, or limitation of your labels.]
+
+### Answer to the question
+
+[Connect the two findings. State what this corpus can and cannot establish.]
+:::
+:::
+
+::: {.small-source}
+**Sources:** [Cite your corpus and sentiment dictionary. Include the source links and selection dates needed to identify your data.]
+:::

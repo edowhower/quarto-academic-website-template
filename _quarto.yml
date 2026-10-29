@@ -21,6 +21,8 @@ website:
         href: index.qmd
       - text: Projects
         href: research.qmd
+      - text: Text Analysis
+        href: research_poster.qmd
       - text: Career
         href: career.qmd
       - text: Art
