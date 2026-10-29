@@ -67,8 +67,12 @@ Create data brief that provides context for research topic and illustrates relat
 
 *Control:* Contrary to our hypothesis, we found that, when controlling for trust in the federal government, republicans’ level of distrust in media remains consistent across frequency of trust in government.
 
-
-
+<iframe
+  src="/research_poster.html"
+  width="100%"
+  height="600"
+  style="border: none;">
+</iframe>
 
 
 <!-- OPTIONAL: add a project link with [Project title](https://your-link). -->
