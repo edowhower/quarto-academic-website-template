@@ -75,4 +75,4 @@ Create data brief that provides context for research topic and illustrates relat
 </iframe>
 
 
-<!-- OPTIONAL: add a project link with [Project title](https://your-link). -->
+[View Full Poster](docs/research_poster.qmd){.quiet-link}
