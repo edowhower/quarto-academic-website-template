@@ -1,0 +1,57 @@
+SUPPLIED DATA AND DICTIONARY NOTICES
+
+The source and selection details are in ../README.md.
+
+BING LIU / HU AND LIU SENTIMENT LEXICON
+Permission and attribution notice for bing_liu_dictionary.csv
+
+Creators: Minqing Hu, Bing Liu, and collaborators.
+Original author page:
+https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
+
+Distribution source: tidytext::sentiments. The official dataset documentation
+states that the creators granted permission for its inclusion and that the
+lexicon may be used in research, commercial, and other contexts with attribution
+to the original paper or author URL:
+https://juliasilge.github.io/tidytext/reference/sentiments.html
+https://github.com/juliasilge/tidytext/blob/main/R/sentiments.R
+
+Please retain this notice and cite:
+Minqing Hu and Bing Liu (2004). Mining and summarizing customer reviews.
+Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery
+and Data Mining (KDD-2004), Seattle, Washington, August 22–25, 2004.
+Or cite the original author URL above.
+
+Course adaptation: positive/negative became +1/-1; 224 entries incompatible with
+the supplied ASCII-word tokenizer were omitted; 6 rows for 3 words carrying both
+positive and negative labels were omitted. The retained 6,556 word values have
+not otherwise been reclassified. Detailed source and preparation records are retained by the instructor.
+
+This notice records the dataset-specific permission reported by its authorized
+distributor. It does not infer a new license from the tidytext package's MIT
+software license. No claim of political-domain validation accompanies this file.
+
+
+TRUMP ARCHIVE REPOSITORY NOTICE
+
+MIT License
+
+Copyright (c) 2021 Mark Huang
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

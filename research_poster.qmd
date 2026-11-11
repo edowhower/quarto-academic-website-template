@@ -32,7 +32,7 @@ h1.title { font-size: 48px; font-weight: 700; line-height: 1.1; }
 ::: {.column-one}
 ## Question
 
-What topic has the highest salience overall and how does sentiment towards the topic differ between administrations?
+What topic has the highest salience overall and what is the average sentiment towards the topic?
 
 ### Data
 
@@ -63,11 +63,11 @@ Biden had the most positive dictionary score between the three administrations.
 
 ![](outputs/sentiment.png){fig-alt="Mean document dictionary scores by comparison group."}
 
-Caption: Mean Sentiment Score of all Executive Orders Sorted by Administration.
+Mean Sentiment Score of all Executive Orders Sorted by Administration.
 
-![](outputs/negate.png){fig-alt="Mean document dictionary scores by comparison group."}
+![](outputs/negation_plot_v2.png){fig-alt="Mean document dictionary scores by comparison group."}
 
-![](outputs/ogandtargetscores.png){fig-alt="Mean document dictionary scores by comparison group."}
+![](outputs/target_plot_v2.png){fig-alt="Mean document dictionary scores by comparison group."}
 
 ## Topic finding
 
@@ -75,11 +75,11 @@ The topic with the highest proportion of executive orders was national security.
 
 ![](outputs/topics.png){fig-alt="Average estimated topic proportions across modeled documents."}
 
-Caption: 5 main topics within executive orders and the proportion of documents that fall under them.
+5 main topics within executive orders and the most frequent words within them.
 
 ![](outputs/wordbytopic.png){fig-alt="Average estimated topic proportions across modeled documents."}
+Sentiments towards each topic
 ![](outputs/sentimentbytopic.png){fig-alt="Average estimated topic proportions across modeled documents."}
-Top words by Topic
 
 
 :::
@@ -132,14 +132,14 @@ Top words by Topic
 ### Limits
 
 **Sentiment:** 
-The Dictionary defines trump as a positive, meaning any mention of Trump as a name count as a positive; however, this issue can be fixed by filtering out Trump. 
+The Dictionary may attach positive or negative meaning to words that are used differently in the data-set. For example, the dictionary defines trump as a positive, meaning any mention of Trump as a name count as a positive; however, this issue can be fixed by filtering out Trump. 
 
 **Topics:**
 Often executive orders are relevant in multiple areas. For example, I noticed National Security overlapped often with topics like technology, government operations, or executive structure. 
 
-### Answer to the question
+### Significance of Analysis Methods
 
-Topic modeling and sentiment analysis help examine both a topic's salience and the general sentiment towards it. Here I found that National Security has the highest salience and is spoken about relatively positively, which in most of the texts indicated a focus on action instead of previous/ongoing negative impacts resulting from something. 
+Topic modeling and sentiment analysis help examine both a topic's salience and the general sentiment towards it. Here I found that National Security had the highest salience and is spoken about relatively neutrally. After inspecting individual texts within the topic, I observed that most focused on action rather than describing an issue and its negative impacts. They often center on solving problems instead of dwelling on the problems themselves. The neutrality tended to result from lack of negative or positive word matches rather than a balanced number of positive and negative words. 
 :::
 :::
 
